@@ -1,1 +1,1 @@
-* Pathology Detector training pipeline *
+# Pathology Detector training pipeline 
