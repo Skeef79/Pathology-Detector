@@ -52,7 +52,7 @@
 ## Проведение эксперимента
 
 1. Настроить [конфиг](https://github.com/Skeef79/Pathology-Detector/blob/master/training_pipeline/config.json) файл.
-Это можно сделать при помощи блокнота [change_config.ipynb](https://github.com/Skeef79/Pathology-Detector/blob/master/training_pipeline/change_config.ipynb). Перед запуском эксперимента необходимо настроить параметры в этом файле и запустить его. Он автоматически поменять файл [config.json](https://github.com/Skeef79/Pathology-Detector/blob/master/training_pipeline/config.json)
+Это можно сделать при помощи блокнота [change_config.ipynb](https://github.com/Skeef79/Pathology-Detector/blob/master/training_pipeline/change_config.ipynb). Перед запуском эксперимента необходимо настроить параметры в этом файле и запустить его. Он автоматически поменяет файл [config.json](https://github.com/Skeef79/Pathology-Detector/blob/master/training_pipeline/config.json)
 2. Написать цели и ожидаемый результат эксперимента в файле [description.txt](https://github.com/Skeef79/Pathology-Detector/blob/master/training_pipeline/description.txt) (конечно, это не обязательно, но без этого не понятно зачем проводился эксперимент)
 3. Запустить ноутбук [run_pipeline.ipynb](https://github.com/Skeef79/Pathology-Detector/blob/master/training_pipeline/run_pipeline.ipynb)
 
